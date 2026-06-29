@@ -1,62 +1,45 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=bhaskar@parihar:~$&fontSize=60&fontAlignY=50&fontColor=00FF00" />
-</div>
+# Hi, I'm Bhaskar Parihar 👋
 
-```bash
-#!/bin/bash
-echo "Initializing AI/ML Engineering Protocols..."
-echo "Welcome to the mainframe."
-```
+**AI/ML Engineer & Full-Stack Developer**
 
-<p align="center">
-  <a href="https://github.com/bhaskarparihar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22);import+torch;+import+tensorflow;sudo+rm+-rf+%2Fbugs;Building+Scalable+AI+Systems" alt="Typing SVG" />
-  </a>
-</p>
+I build intelligent systems and scalable applications. My primary focus is on Machine Learning, Generative AI, and Retrieval-Augmented Generation (RAG). I enjoy dissecting complex algorithms and turning them into efficient, real-world solutions.
 
-### 🟢 `whoami`
+[LinkedIn](https://linkedin.com/in/bhaskarparihar) • [Email](mailto:bhaskarparihar894@gmail.com)
 
-```json
-{
-  "name": "Bhaskar Parihar",
-  "role": "AI/ML Engineer & Full-Stack Developer",
-  "focus": ["Machine Learning", "Generative AI", "RAG Systems"],
-  "recent_builds": [
-    "GenAI-Learning-Mentor",
-    "NeuroProctor"
-  ],
-  "contact": {
-    "email": "bhaskarparihar894@gmail.com",
-    "linkedin": "linkedin.com/in/bhaskarparihar"
-  },
-  "mission": "Building intelligent systems that solve real-world problems."
-}
-```
+---
 
-### 🟢 `./view_stats.sh`
+### 💻 Featured Work
+
+- **[GenAI-Learning-Mentor](https://github.com/bhaskarparihar/GenAI-Learning-Mentor)**  
+  *An adaptive learning coach powered by LLMs, featuring RAG-based document chatting and custom quiz generation.*
+- **[NeuroProctor](https://github.com/bhaskarparihar/NeuroProctor)**  
+  *A robust AI-powered proctoring system built with modern web technologies.*
+- **[Trader-Behavior-Insights](https://github.com/bhaskarparihar/Trader-Behavior-Insights)**  
+  *Machine learning analysis of trading behavior and financial data patterns.*
+
+---
+
+### 🛠️ Core Technologies
+
+**AI & Data:** Python, PyTorch, TensorFlow, Scikit-Learn, Pandas  
+**Engineering:** JavaScript, TypeScript, Node.js, Java  
+**Architecture:** FastAPI, REST APIs, Docker, System Design  
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarparihar&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarparihar&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&border=00FF00&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarparihar&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarparihar&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" width="48%" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarparihar&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00&hide_border=false" width="50%" />
-</div>
-
-### 🟢 `tail -f /var/log/contributions.log`
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhaskarparihar&color=00FF00&style=for-the-badge&label=ROOT+ACCESS+GRANTED" />
 </div>
