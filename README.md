@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Bhaskar%20Parihar&fontSize=70&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Hi,%20I'm%20Bhaskar%20Parihar&fontSize=70&fontAlignY=35&fontColor=79C0FF&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=C9D1D9" />
 
 ### <div align="center">I build intelligent systems and scalable applications.</div>
 
 <p align="center">
   <a href="https://github.com/bhaskarparihar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Building+RAG+%26+Generative+AI;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=79C0FF&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Building+RAG+%26+Generative+AI;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=bhaskarparihar&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=bhaskarparihar&color=79C0FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhaskarparihar&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Bhaskar's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bhaskarparihar&theme=gitdark&no-frame=true&no-bg=true&margin-w=15" alt="Bhaskar's Trophies" />
   </a>
 </div>
 
@@ -67,7 +67,7 @@
       <td valign="top" width="50%">
         <h4 align="center">Top Languages</h4>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarparihar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarparihar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" width="100%" />
         </div>
       </td>
     </tr>
@@ -75,8 +75,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarparihar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=C9D1D9&text_color=8B949E" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarparihar&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarparihar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=79C0FF&title_color=79C0FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarparihar&theme=dark&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakNum=79C0FF&sideLabels=C9D1D9&dates=C9D1D9" width="48%" />
 </div>
 
 ---
@@ -86,10 +86,12 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhaskarparihar/bhaskarparihar/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
+
+<br>
 
 <div align="center">
   <i>"The best way to predict the future is to invent it."</i>
